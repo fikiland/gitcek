@@ -1,1 +1,2 @@
-ini filekdua dari vs konflikk 
+ini isi filekedua .txt belum konflik nih
+ini filekdua dari vs konflikk, ini hasil merge harusnya keduanya ada
